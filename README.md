@@ -1,18 +1,23 @@
-# SIGR
-
+SIGR
 Sistema Integral de Gestión de Restaurante
 
-Version: 1.0.0
+Versión
+1.0.0
 
-Modulos:
-- Autenticacion
-- Usuarios
-- Menu
-- Pedidos
-- Reservas
-- Facturacion
-- Reportes
-- Caja
+Módulos
+Autenticación
+Usuarios
+Menú
+Pedidos
+Reservas
+Facturación
+Reportes
+Caja
+Control de versiones
+Git
 
-Rama principal: main
-Linea base: SIGR-BL-01
+Rama principal
+main
+
+Línea base
+SIGR-BL-01
